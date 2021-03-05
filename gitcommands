@@ -51,3 +51,28 @@
    51  ls
    52  history 
    53  history > gitcommands 
+   54  git status
+   55  git add .
+   56  git commit -m " modified in dev"
+   57  git push -u origin dev
+   58  git branch
+   59  git checkout master
+   60  git push
+   61  git pull
+   62  git push
+   63  git fetch origin
+   64  git push -u origin master
+   65  git branch
+   66  history > gitcommands 
+   67  ls
+   68  git status
+   69  git add .
+   70  git commit -m " modified in master"
+   71  git push
+   72  git checkout dev
+   73  git pull
+   74  git status
+   75  history
+   76  echo " gitcommands "
+   77  history
+   78  history > gitcommands 
