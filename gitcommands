@@ -64,6 +64,7 @@
    64  git push -u origin master
    65  git branch
    66  history > gitcommands 
+<<<<<<< HEAD
    67  ls
    68  git status
    69  git add .
@@ -76,3 +77,5 @@
    76  echo " gitcommands "
    77  history
    78  history > gitcommands 
+=======
+>>>>>>> master
