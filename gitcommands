@@ -1,0 +1,27 @@
+    1  ls
+    2  history
+    3  history > gitcommands
+    4  ls
+    5  cat gitcommands 
+    6  git status
+    7  ls -a
+    8  git init
+    9  ls
+   10  ls -a
+   11  history 
+   12  history > gitcommands 
+   13  cat gitcommands 
+   14  ls
+   15  ls -a
+   16  git status
+   17  git add .
+   18  git status
+   19  git commit -m "add the gitcommands"
+   20  git config --global user.email "maheswari3722@gmail.com"
+   21  git config --global user.name "maheswari2237"
+   22  git status
+   23  git branch
+   24  git remote add origin https://github.com/maheswari2237/aws-devops-2021.git
+   25  git status
+   26  history
+   27  history > gitcommands 
