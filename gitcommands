@@ -25,3 +25,29 @@
    25  git status
    26  history
    27  history > gitcommands 
+   28  git branch
+   29  git branch -m main master
+   30  git branch
+   31  git status
+   32  git add .
+   33  git commit -m "modified changes"
+   34  git push
+   35  git branch -m main master
+   36  git push
+   37  git push --set-upstream origin master
+   38  history
+   39  git branch -m main master
+   40  git fetch origin
+   41  git branch -u origin/master master
+   42  git branch
+   43  git push 
+   44  git status
+   45  git push
+   46  git pull
+   47  git branch dev
+   48  git branch
+   49  git checkout dev
+   50  git status
+   51  ls
+   52  history 
+   53  history > gitcommands 
