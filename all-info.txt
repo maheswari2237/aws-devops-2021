@@ -1,2 +1,10 @@
 aws-devops-details
 
+
+
+aws account creation step by step
+
+
+http://progressivecoder.com/creating-an-aws-account-a-step-by-step-process-guide/
+
+
