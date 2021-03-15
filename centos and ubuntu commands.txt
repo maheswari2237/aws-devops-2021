@@ -1,0 +1,6 @@
+https://www.openlogic.com/blog/centos-commands-cheat-sheet
+
+
+ubuntu commands:
+
+https://vitux.com/40-most-used-ubuntu-commands/
