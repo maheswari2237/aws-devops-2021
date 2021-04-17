@@ -1,0 +1,16 @@
+https://wkrzywiec.medium.com/how-to-put-your-java-application-into-docker-container-5e0a02acdd6b
+
+https://github.com/smartsheet-samples/docker-java-hello-world
+
+https://semaphoreci.com/community/tutorials/build-and-deploy-a-java-web-application-with-docker-and-semaphore
+
+
+
+
+
+
+
+https://docs.microsoft.com/en-us/windows/wsl/install-win10
+
+
+https://examples.javacodegeeks.com/devops/docker/docker-tutorial-for-java-developers/
